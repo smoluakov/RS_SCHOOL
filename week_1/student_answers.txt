@@ -1,0 +1,15 @@
+5925
+434
+['Juan Quero', 'Mariusz Rybicki', 'Yohandry Orozco', 'Caetano', 'Diego Buonanotte', 'Aldo Kalulu', 'Andre Horta', 'Fouad Rachid', 'Maxi Moralez', 'Maxime Blanc']
+[(1980, 434), (1981, 475), (1982, 487), (1983, 541), (1984, 607), (1985, 593), (1986, 710), (1987, 722), (1988, 802), (1989, 723), (1990, 696)]
+179.705 6.995
+Sunday
+England Premier League
+Steve Mandanda
+overall_rating,overall_rating;gk_reflexes,gk_positioning;gk_reflexes,gk_handling;gk_handling,gk_positioning;sliding_tackle,standing_tackle;
+0
+0
+0
+0
+0
+0
